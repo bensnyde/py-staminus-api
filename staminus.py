@@ -1,13 +1,14 @@
 """
-    Staminus API Python Library
 
-    http://support.staminus.net/index.php?action=artikel&cat=11&id=19&artlang=en
+Staminus API Python Library
 
-    Author: Benton Snyder
-    Date: 8/30/2014
+http://support.staminus.net/index.php?action=artikel&cat=11&id=19&artlang=en
+
+Author: Benton Snyder
+Date: 8/30/2014
+
 """
 import requests
-import requests.auth
 
 
 class Staminus:
@@ -116,7 +117,7 @@ class Staminus:
             Fetches account's secure ports listing.
 
         Returns:
-            str json-encoded response 
+            str json-encoded response            
         """            
         return self._api_query('get_all_Secureports=1')
 
