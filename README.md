@@ -5,7 +5,7 @@ Staminus API Python Library
 
 http://support.staminus.net/index.php?action=artikel&cat=11&id=19&artlang=en
 
-Example
+Usage
 ---
 
 staminus = Staminus('xx', 'xx', 'xx://', 'xx', 'xx')
