@@ -5,10 +5,10 @@ Staminus API Python Library
 
 http://support.staminus.net/index.php?action=artikel&cat=11&id=19&artlang=en
 
-Author: Benton Snyder
-Website: http://bensnyde.me
-Created: 8/30/2014
-Revised: 12/31/2014
+- Author: Benton Snyder
+- Website: http://bensnyde.me
+- Created: 8/30/2014
+- Revised: 12/31/2014
 
 Usage
 ---
